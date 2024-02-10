@@ -22,10 +22,10 @@ from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
 from PyQt5.QtCore import QUrl
 from PyQt5.QtGui import QIcon
 import sys
-import task3ui
-from classes_1 import FileBrowser
+import UI
+from Classes import FileBrowser
 
-class MainApp(QtWidgets.QMainWindow, task3ui.Ui_MainWindow):
+class MainApp(QtWidgets.QMainWindow, UI.Ui_MainWindow):
     def __init__(self):
         super(MainApp, self).__init__()
         self.setupUi(self)
