@@ -1,19 +1,19 @@
-<RCC>
-    <qresource prefix="/images">
-        <file>icons\animals mode.png</file>
-        <file>icons\close.png</file>
-        <file>icons\ecg mode.png</file>
-        <file>icons/equalizer.png</file>
-        <file>icons\musical mode.png</file>
-        <file>icons\mute2.png</file>
-        <file>icons\open file.png</file>
-        <file>icons\play_pause.png</file>
-        <file>icons\reset.png</file>
-        <file>icons\restart.png</file>
-        <file>icons\stop.png</file>
-        <file>icons\uniform mode.png</file>
-        <file>icons\unmute2.png</file>
-        <file>icons\zoom in.png</file>
-        <file>icons\zoom out.png</file>
-    </qresource>
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons\animals mode.png</file>
+    <file>icons\close.png</file>
+    <file>icons\ecg mode.png</file>
+    <file>icons/equalizer.png</file>
+    <file>icons\musical mode.png</file>
+    <file>icons\mute2.png</file>
+    <file>icons\open file.png</file>
+    <file>icons\play_pause.png</file>
+    <file>icons\reset.png</file>
+    <file>icons\restart.png</file>
+    <file>icons\stop.png</file>
+    <file>icons\uniform mode.png</file>
+    <file>icons\unmute2.png</file>
+    <file>icons\zoom in.png</file>
+    <file>icons\zoom out.png</file>
+</qresource>
 </RCC>
