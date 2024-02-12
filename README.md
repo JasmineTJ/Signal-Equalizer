@@ -41,10 +41,10 @@ The chosen window is applied when multiplying the frequency range with the corre
   - Spectrograms dynamically reflect changes made using the equalizer sliders.
   - Option to toggle show/hide of the spectrograms.
 
-  ![1](Previews\4.jpg)
-  ![2](Previews\3.bmp)
-  ![3](Previews\2.bmp)
-  ![4](Previews\1.png)
+  <img src = 'Previews\4.jpg'>
+  <img src = 'Previews\3.bmp'>
+  <img src = 'Previews\2.bmp'>
+  <img src = 'Previews\1.png'>
 
 
 ## Usage
